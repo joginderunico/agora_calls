@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agora_calls.iml" filepath="$PROJECT_DIR$/agora_calls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/agora_calls_android.iml" filepath="$PROJECT_DIR$/android/agora_calls_android.iml" />
+    </modules>
+  </component>
+</project>
